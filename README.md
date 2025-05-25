@@ -1,6 +1,6 @@
-# AGL-STFCM
+# STFCM-AGL
 
-A deep learning framework for time series forecasting using AGL-STFCM.
+A deep learning framework for time series forecasting using STFCM-AGL.
 
 ## Project Structure
 
